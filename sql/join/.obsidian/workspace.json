@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "13e7259be83d844c",
+    "type": "split",
+    "children": [
+      {
+        "id": "db2fd0e073b2f75a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fa40c9332fb704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THETA JOIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THETA JOIN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93d1a3eced81bf18",
+    "type": "split",
+    "children": [
+      {
+        "id": "29fb6ce58efe22ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f62495f55495fd2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a767830363ba21d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "735fa5824cf16093",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "af30c825f5b5c456",
+    "type": "split",
+    "children": [
+      {
+        "id": "43b584d55924473f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b138c5e77397f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "THETA JOIN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for THETA JOIN"
+            }
+          },
+          {
+            "id": "0fb85ed1e014a804",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "THETA JOIN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from THETA JOIN"
+            }
+          },
+          {
+            "id": "ec9ad66f7a04f994",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b6a126556095499",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "THETA JOIN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of THETA JOIN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4fa40c9332fb704",
+  "lastOpenFiles": [
+    "FULL JOIN.md",
+    "OUTER JOIN.md",
+    "NATURAL JOIN.md",
+    "RIGHT JOIN.md",
+    "LEFT JOIN.md",
+    "INNER JOIN.md"
+  ]
+}
